@@ -1,0 +1,25 @@
+{
+  "id": "./",
+  "name": "TWICA Documents",
+  "short_name": "TWICA Docs",
+  "description": "Masjid Al-Noor / TWICA official document centre",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f9f7ef",
+  "theme_color": "#075e61",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
